@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19348147)
 # Python: Import
 In Python kannst du Module importieren und deren Funktionen nutzen, um deinen Code zu organisieren und wiederverwendbar zu machen. Ein Modul ist eigentlich nur eine Python Datei, so wie wir sie in den vorherigen Übungen bereits geschrieben haben. Hier ist eine einfache Anleitung, wie du so eine Datei (Modul) importieren und nutzen kannst.
 
